@@ -1,0 +1,17 @@
+﻿Scenario,Q_R (m³/h),Q_OA (m³/h),Q_I (m³/h),ε_S (combined),β_total (h⁻¹)
+MERV 13 HVAC filter only,1800,50,100,0.9,4.1
+1 Portable HEPA purifier,0,50,100,0.99,1.1
+2 Portable HEPA purifiers,0,50,100,0.99,1.6
+4 Portable HEPA purifiers,0,50,100,0.99,2.7
+6 Portable HEPA purifiers,0,50,100,0.99,3.8
+HRV/ERV (0.35 ACH unit),0,158,100,0.5,0.5
+1 HEPA + MERV 13,1800,50,100,0.91,4.7
+2 HEPA + MERV 13,1800,50,100,0.92,5.2
+4 HEPA + MERV 13,1800,50,100,0.94,6.3
+6 HEPA + MERV 13,1800,50,100,0.95,7.4
+HRV/ERV + MERV 13,1800,158,100,0.9,4.1
+1 HEPA + MERV 13 + HRV,1800,158,100,0.91,4.7
+2 HEPA + MERV 13 + HRV,1800,158,100,0.92,5.2
+4 HEPA + MERV 13 + HRV,1800,158,100,0.94,6.3
+6 HEPA + MERV 13 + HRV,1800,158,100,0.95,7.4
+BaseCaseHome,900,50,100,0.5,0.5
